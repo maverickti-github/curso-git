@@ -1,3 +1,3 @@
 #Este es un programa en Python
 
-print("Hola Mundo")
+print("Hola Mundo, y a todo el mundo")
