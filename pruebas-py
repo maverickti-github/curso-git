@@ -1,0 +1,3 @@
+#Variables
+cadena="Mi Cadena"
+print("La cadena es", $cadena)
